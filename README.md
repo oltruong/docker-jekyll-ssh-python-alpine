@@ -1,2 +1,3 @@
 # docker-jekyll-ssh-python-alpine
-docker file to build an image with jekyll, python and ssh included.
+Docker file to build an image with jekyll, python and ssh included.
+Also includes asciidoctor.
