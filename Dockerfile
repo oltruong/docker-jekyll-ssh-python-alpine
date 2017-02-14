@@ -4,7 +4,7 @@ LABEL maintainer oltruong<contact@oltruong.com>
 
 ENV JEKYLL_VERSION  3.4.0
 ENV MINIMA_VERSION  2.1.0
-ENV ASCIIDOCTOR_VERSION 1.5.0
+ENV ASCIIDOCTOR_VERSION 1.5.5
 ENV ASCIIDOCTOR_PDF_VERSION 1.5.0.alpha.14
 
 RUN apk add --update bash build-base libffi-dev openssh rsync python py-pip
