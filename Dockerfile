@@ -14,4 +14,4 @@ RUN gem install minima -v $MINIMA_VERSION
 RUN gem install asciidoctor -v $ASCIIDOCTOR_VERSION
 RUN gem install asciidoctor-pdf -v $ASCIIDOCTOR_PDF_VERSION
 RUN pip3 install --upgrade pip
-RUN pip3 install xlrd
+RUN pip3 install xlrd pytest
